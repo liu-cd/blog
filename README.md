@@ -4,3 +4,5 @@ liucd's blog
 * Typescript
 * Golang
 * Angular2
+* R
+
